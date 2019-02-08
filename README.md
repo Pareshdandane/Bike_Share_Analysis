@@ -1,7 +1,11 @@
 # Bike_Share_Analysis
+## overview
+In this project, you will make use of Python to explore data related to bikeshare systems for three major bikeshare systems in the United States. You will perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. You will also make use of a package that is not part of the standard Python library to help you visualize the data.
+
+If you are not familiar with the data analysis process, this project will be your first exposure to the kinds of steps that a data analyst takes when they approach a dataset. The steps of the process that you go through here will be covered in more depth as you continue on with the Nanodegree program. For now, all you need is the general programming skills you've learned from the "Introduction to Python Programming" course and a desire to learn about the data analysis process! Note that you may not have seen some of the packages used in the project prior to this point, so you should be comfortable with following documentation links and experimenting with code to build your intuition for how to use the packages to solve the problems posed.
 
 # US-Bike-Share-Project-Python
-I complete this project during python fundation Nanodegree! 
+I completed this project during python foundation Nanodegree! 
 
 
 
@@ -15,18 +19,14 @@ I complete this project during python fundation Nanodegree!
 - Performing Your Own Analysis
 - Conclusions
 
-> Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing 
-> systems allow users to rent bicycles for short trips, typically 30 minutes or less. Thanks to the rise in information technologies, it 
-> is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a 
-> wealth of data that can be used to explore how these bike-sharing systems are used.
-
-> In this project, you will perform an exploratory analysis on data provided by [Motivate](https://www.motivateco.com/), a bike-share 
-> system provider for many major cities in the United States. You will compare the system usage between three large cities: New York City, > Chicago, and Washington, DC. You will also see if there are any differences within each system for those users that are registered, 
-> regular users and those users that are short-term, casual users.
 
 ## Tool Used
 * Jupyter Notebook
 
+## library Used
+* numpy
+* pandas
+* matplotllib
 
 ## Files Included
 * Bike_Share_Analysis.ipynb (_Jupyter Notebook File_)
